@@ -1,4 +1,4 @@
-# WP Virus
+# WP Prank
 Changes wallpaper to `r_wp.png`
 
 ## Usage
