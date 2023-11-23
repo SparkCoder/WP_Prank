@@ -8,5 +8,5 @@
    - Make sure it is a PNG file
 2. Press WIN+R (or open RUN)
 3. Type: `shell:common`
-4. Copy the `sys_core` shortcut file to the opened folder
+4. Make a shortcut to `v_core.vbs` to the opened folder
 5. Restart computer
